@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\VARSHA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_d299a79ab94d4eb3c1ef8c77c26a951ab0cce502\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VARSHA\.android\build-cache\36f1a2288e3c18c32ab285389efc18605a8a64c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_064554855119fcd9777a570e1a1ca006a90ddbd0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VARSHA\.android\build-cache\37f370319e3b744a8d7c7ff2422c238355858dd8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3e7be8fda85c86fe4c585f3a164a7e3d9695c620\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="409db75127b3f9c2adb9545d154dbde7dc586bfa">
+        <dex dex="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_90939c8aa898fc0401953d8612555e93ca137c6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VARSHA\.android\build-cache\b7d9dcd99900ff46a0f9cc7528523dddfd10edaf\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03b9358f4a3715d0b3e356843b2ae10866498d3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VARSHA\.android\build-cache\d09084b88f66e2c7a06a5e8b4b85e0154a114f8d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16425454ac3894e7d6f8660ac143540c1be1e880\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VARSHA\.android\build-cache\572aedff24e393a8950c0eb9f35188f72dd03b01\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0525fd2d65adbb3fa06f15a5cc932e72a5c251b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VARSHA\.android\build-cache\f08de9200705fd00dee7bb07954294845a849895\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4450a00eaf439be524487fc0df6cc8f826b9c31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_23043dcd599e94e2abed9e8f2aa28bd7b15c1c7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\VARSHA\.android\build-cache\b7d9dcd99900ff46a0f9cc7528523dddfd10edaf\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\VARSHA\Downloads\LowCost\LowCost\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_33f61b12e2ea7dc66355e1d95e938a532644ce52\classes.dex" />
+    </item>
+
+</items>

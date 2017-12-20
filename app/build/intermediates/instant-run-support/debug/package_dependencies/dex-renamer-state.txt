@@ -1,0 +1,25 @@
+#Fri Sep 08 12:23:31 EDT 2017
+renamed.7=classes2.dex
+renamed.6=classes6.dex
+renamed.5=classes4.dex
+renamed.4=classes5.dex
+renamed.3=classes3.dex
+renamed.2=classes8.dex
+renamed.1=classes7.dex
+renamed.0=classes.dex
+base.7=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0525fd2d65adbb3fa06f15a5cc932e72a5c251b6
+base.6=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d4450a00eaf439be524487fc0df6cc8f826b9c31
+base.5=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_16425454ac3894e7d6f8660ac143540c1be1e880
+base.4=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3e7be8fda85c86fe4c585f3a164a7e3d9695c620
+base.3=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_064554855119fcd9777a570e1a1ca006a90ddbd0
+base.2=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_d299a79ab94d4eb3c1ef8c77c26a951ab0cce502
+base.1=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_33f61b12e2ea7dc66355e1d95e938a532644ce52
+base.0=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_03b9358f4a3715d0b3e356843b2ae10866498d3b
+file.7=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0525fd2d65adbb3fa06f15a5cc932e72a5c251b6\\classes.dex
+file.6=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d4450a00eaf439be524487fc0df6cc8f826b9c31\\classes.dex
+file.5=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_16425454ac3894e7d6f8660ac143540c1be1e880\\classes.dex
+file.4=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3e7be8fda85c86fe4c585f3a164a7e3d9695c620\\classes.dex
+file.3=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_064554855119fcd9777a570e1a1ca006a90ddbd0\\classes.dex
+file.2=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_d299a79ab94d4eb3c1ef8c77c26a951ab0cce502\\classes.dex
+file.1=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_33f61b12e2ea7dc66355e1d95e938a532644ce52\\classes.dex
+file.0=C\:\\Users\\VARSHA\\Downloads\\LowCost\\LowCost\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_03b9358f4a3715d0b3e356843b2ae10866498d3b\\classes.dex
